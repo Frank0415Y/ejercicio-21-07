@@ -1,0 +1,23 @@
+.titulo1{
+   border-bottom: 3px solid blue;
+}
+.titulo2{
+border-width: 4px solid gray;
+border-radius: 4px solid gray;
+border-bottom: 4px solid gray;
+border-top: 4px solid gray;
+
+}
+.borderojo{
+    border-width: 4px dotted red;
+        border-radius: 4px dotted red;
+        border-bottom: 4px dotted red;
+        border-top: 4px dotted  red;
+
+}
+.bordeverde{
+    border-width: 4px dashed rgb(3, 203, 3) ;
+        border-radius: 4px dashed rgb(3, 203, 3);
+        border-bottom: 4px dashed rgb(3, 203, 3);
+        border-top: 4px dashed rgb(3, 203, 3);
+}
